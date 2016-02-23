@@ -1,4 +1,4 @@
-FROM postgres:9.5
+FROM postgres:9.4
 
 MAINTAINER Josh Goodman <jogoodma@indiana.edu>
 
